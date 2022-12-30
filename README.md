@@ -1,3 +1,5 @@
+### To Do: Annotate code for a better understanding. Run tests
+
 EQClassic source code from January 1st, 2010 - For EverQuest Trilogy (big box)
 
 **Online Documention:** http://erfg12.github.io/EQClassic/
