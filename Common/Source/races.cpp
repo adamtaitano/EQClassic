@@ -1,5 +1,5 @@
 // ***************************************************************
-//  races   ·  date: 21/12/2007
+//  races   ï¿½  date: 21/12/2007
 //  -------------------------------------------------------------
 //  Copyright (C) 2007 - All Rights Reserved
 // ***************************************************************
@@ -14,6 +14,7 @@ namespace EQC
 	namespace Common
 	{
 		// Converts the int8 race to a text value
+		// Interesting case of "Launch"
 		char* GetRaceName(int8 in_race) 
 		{
 			char* result = "";

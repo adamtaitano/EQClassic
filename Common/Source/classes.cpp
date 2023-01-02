@@ -1,5 +1,5 @@
 // ***************************************************************
-//  classesEQCException   ·  date: 21/12/2007
+//  classesEQCException   ï¿½  date: 21/12/2007
 //  -------------------------------------------------------------
 //  Copyright (C) 2007 - All Rights Reserved
 // ***************************************************************
@@ -14,6 +14,7 @@ namespace EQC
 	namespace Common
 	{
 		// Converts the int8 value of class to a text value
+		// Interestingly, includes Beastlord, Banker, Merchant, and GM tmpclass char* values defined in classes.h
 		char* GetClassNameW(int8 in_class)
 		{
 			char* tmpclass = "";

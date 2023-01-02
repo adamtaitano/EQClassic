@@ -1,4 +1,5 @@
-### To Do: Annotate code for a better understanding. Run tests
+### To Do: Annotate code for a better understanding of game and development.
+### Review and elaborate on game mechanics from source.
 
 EQClassic source code from January 1st, 2010 - For EverQuest Trilogy (big box)
 

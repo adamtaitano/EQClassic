@@ -10,6 +10,8 @@ namespace EQC
 {
 	namespace Common
 	{		
+		// Converts int8 itemType into appropriate char* tempname
+		// Interestingly containers include "Always Works" and tradecraft location specific (e.g. city forges) 
 		char* GetContainerName(int8 itemType) 
 		{
 			char* tmpname = "";
